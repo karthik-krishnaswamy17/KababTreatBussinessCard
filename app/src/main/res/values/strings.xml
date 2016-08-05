@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">KebabTreat Bussiness Card</string>
     <string name="kebabtreat">KebabTreat - Treat Your Self !</string>
-    <string name="desc">We serve hot,tasty,delicious kebab 24/7. Come any time and get satisfied always !</string>
+    <string name="desc">We serve hot-hot,tasty,delicious kebab 24/7. Come any time and get satisfied always !</string>
     <string name="address">Arekere Village,80feet Road,Sai Baba Mandir Rd, Arekere, Bengaluru, Karnataka 560076</string>
     <string name="website">www.kebabtreat.com</string>
 </resources>
