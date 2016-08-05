@@ -3511,9 +3511,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 268,
+                        "startOffset": 273,
                         "endColumn": 120,
-                        "endOffset": 384
+                        "endOffset": 389
                     }
                 }
             },
@@ -3541,8 +3541,8 @@
                     "startLine": 217,
                     "startColumn": 4,
                     "startOffset": 29041,
-                    "endColumn": 114,
-                    "endOffset": 29151
+                    "endColumn": 119,
+                    "endOffset": 29156
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\values\\strings.xml",
@@ -3550,8 +3550,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 152,
-                        "endColumn": 114,
-                        "endOffset": 262
+                        "endColumn": 119,
+                        "endOffset": 267
                     }
                 }
             },
@@ -3559,9 +3559,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 29156,
+                    "startOffset": 29161,
                     "endColumn": 69,
-                    "endOffset": 29221
+                    "endOffset": 29226
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\values\\strings.xml",
@@ -3578,9 +3578,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 29226,
+                    "startOffset": 29231,
                     "endColumn": 70,
-                    "endOffset": 29292
+                    "endOffset": 29297
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3597,18 +3597,18 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 29297,
+                    "startOffset": 29302,
                     "endColumn": 54,
-                    "endOffset": 29347
+                    "endOffset": 29352
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 390,
+                        "startOffset": 395,
                         "endColumn": 54,
-                        "endOffset": 440
+                        "endOffset": 445
                     }
                 }
             },
@@ -3616,9 +3616,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 29352,
+                    "startOffset": 29357,
                     "endColumn": 77,
-                    "endOffset": 29425
+                    "endOffset": 29430
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3635,9 +3635,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 29430,
+                    "startOffset": 29435,
                     "endColumn": 89,
-                    "endOffset": 29515
+                    "endOffset": 29520
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3654,9 +3654,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 29520,
+                    "startOffset": 29525,
                     "endColumn": 87,
-                    "endOffset": 29603
+                    "endOffset": 29608
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3673,9 +3673,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 29608,
+                    "startOffset": 29613,
                     "endColumn": 95,
-                    "endOffset": 29699
+                    "endOffset": 29704
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3692,10 +3692,10 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 29704,
+                    "startOffset": 29709,
                     "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 30018
+                    "endOffset": 30023
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\values\\styles.xml",
@@ -3713,10 +3713,10 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 30023,
+                    "startOffset": 30028,
                     "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 30519
+                    "endOffset": 30524
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3734,9 +3734,9 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 30524,
+                    "startOffset": 30529,
                     "endColumn": 88,
-                    "endOffset": 30608
+                    "endOffset": 30613
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3753,10 +3753,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 30613,
+                    "startOffset": 30618,
                     "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 30855
+                    "endOffset": 30860
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3774,10 +3774,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 30860,
+                    "startOffset": 30865,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 31136
+                    "endOffset": 31141
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3795,10 +3795,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 31141,
+                    "startOffset": 31146,
                     "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 31421
+                    "endOffset": 31426
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3816,10 +3816,10 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 31426,
+                    "startOffset": 31431,
                     "endLine": 257,
                     "endColumn": 12,
-                    "endOffset": 31814
+                    "endOffset": 31819
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3837,10 +3837,10 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 31819,
+                    "startOffset": 31824,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 32291
+                    "endOffset": 32296
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3858,10 +3858,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 32296,
+                    "startOffset": 32301,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 32513
+                    "endOffset": 32518
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3879,10 +3879,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32518,
+                    "startOffset": 32523,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 32735
+                    "endOffset": 32740
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3900,10 +3900,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 32740,
+                    "startOffset": 32745,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 33003
+                    "endOffset": 33008
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3921,10 +3921,10 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 33008,
+                    "startOffset": 33013,
                     "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 33230
+                    "endOffset": 33235
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3942,10 +3942,10 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 33235,
+                    "startOffset": 33240,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 33460
+                    "endOffset": 33465
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3963,10 +3963,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 33465,
+                    "startOffset": 33470,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 33690
+                    "endOffset": 33695
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -3984,10 +3984,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 33695,
+                    "startOffset": 33700,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 33920
+                    "endOffset": 33925
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4005,10 +4005,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 33925,
+                    "startOffset": 33930,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 34150
+                    "endOffset": 34155
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4026,10 +4026,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 34155,
+                    "startOffset": 34160,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 34377
+                    "endOffset": 34382
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4047,10 +4047,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 34382,
+                    "startOffset": 34387,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 34616
+                    "endOffset": 34621
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4068,10 +4068,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 34621,
+                    "startOffset": 34626,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 34842
+                    "endOffset": 34847
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4089,10 +4089,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 34847,
+                    "startOffset": 34852,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 35087
+                    "endOffset": 35092
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4110,10 +4110,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 35092,
+                    "startOffset": 35097,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 35217
+                    "endOffset": 35222
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4131,10 +4131,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 35222,
+                    "startOffset": 35227,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 35347
+                    "endOffset": 35352
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4152,10 +4152,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 35352,
+                    "startOffset": 35357,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 35577
+                    "endOffset": 35582
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4173,10 +4173,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 35582,
+                    "startOffset": 35587,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 35825
+                    "endOffset": 35830
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4194,10 +4194,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 35830,
+                    "startOffset": 35835,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 36044
+                    "endOffset": 36049
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4215,10 +4215,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 36049,
+                    "startOffset": 36054,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 36327
+                    "endOffset": 36332
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4236,10 +4236,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 36332,
+                    "startOffset": 36337,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 36535
+                    "endOffset": 36540
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4257,10 +4257,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 36540,
+                    "startOffset": 36545,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 36666
+                    "endOffset": 36671
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4278,10 +4278,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 36671,
+                    "startOffset": 36676,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 36893
+                    "endOffset": 36898
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4299,10 +4299,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 36898,
+                    "startOffset": 36903,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 37139
+                    "endOffset": 37144
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4320,10 +4320,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 37144,
+                    "startOffset": 37149,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 37364
+                    "endOffset": 37369
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4341,10 +4341,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 37369,
+                    "startOffset": 37374,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 37611
+                    "endOffset": 37616
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4362,10 +4362,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 37616,
+                    "startOffset": 37621,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 37832
+                    "endOffset": 37837
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4383,10 +4383,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 37837,
+                    "startOffset": 37842,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 38077
+                    "endOffset": 38082
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4404,10 +4404,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 38082,
+                    "startOffset": 38087,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 38353
+                    "endOffset": 38358
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4425,10 +4425,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 38358,
+                    "startOffset": 38363,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 38654
+                    "endOffset": 38659
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4446,10 +4446,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 38659,
+                    "startOffset": 38664,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 38978
+                    "endOffset": 38983
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4467,10 +4467,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 38983,
+                    "startOffset": 38988,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 39269
+                    "endOffset": 39274
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4488,10 +4488,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 39274,
+                    "startOffset": 39279,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 39583
+                    "endOffset": 39588
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4509,9 +4509,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 39588,
+                    "startOffset": 39593,
                     "endColumn": 136,
-                    "endOffset": 39720
+                    "endOffset": 39725
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4528,9 +4528,9 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 39725,
+                    "startOffset": 39730,
                     "endColumn": 130,
-                    "endOffset": 39851
+                    "endOffset": 39856
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4547,9 +4547,9 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 39856,
+                    "startOffset": 39861,
                     "endColumn": 104,
-                    "endOffset": 39956
+                    "endOffset": 39961
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4566,10 +4566,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 39961,
+                    "startOffset": 39966,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 40160
+                    "endOffset": 40165
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4587,10 +4587,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 40165,
+                    "startOffset": 40170,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 40368
+                    "endOffset": 40373
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4608,10 +4608,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 40373,
+                    "startOffset": 40378,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 40492
+                    "endOffset": 40497
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4629,10 +4629,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 40497,
+                    "startOffset": 40502,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 40616
+                    "endOffset": 40621
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4650,9 +4650,9 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 40621,
+                    "startOffset": 40626,
                     "endColumn": 104,
-                    "endOffset": 40721
+                    "endOffset": 40726
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4669,9 +4669,9 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 40726,
+                    "startOffset": 40731,
                     "endColumn": 116,
-                    "endOffset": 40838
+                    "endOffset": 40843
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4688,10 +4688,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 40843,
+                    "startOffset": 40848,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 41052
+                    "endOffset": 41057
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4709,10 +4709,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 41057,
+                    "startOffset": 41062,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 41198
+                    "endOffset": 41203
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4730,10 +4730,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 41203,
+                    "startOffset": 41208,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 41338
+                    "endOffset": 41343
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4751,10 +4751,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 41343,
+                    "startOffset": 41348,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 41424
+                    "endOffset": 41429
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4772,10 +4772,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 41429,
+                    "startOffset": 41434,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 41772
+                    "endOffset": 41777
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4793,9 +4793,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 41777,
+                    "startOffset": 41782,
                     "endColumn": 87,
-                    "endOffset": 41860
+                    "endOffset": 41865
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4812,10 +4812,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 41865,
+                    "startOffset": 41870,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 42090
+                    "endOffset": 42095
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4833,10 +4833,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 42095,
+                    "startOffset": 42100,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 42508
+                    "endOffset": 42513
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4854,10 +4854,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 42513,
+                    "startOffset": 42518,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 42741
+                    "endOffset": 42746
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4875,9 +4875,9 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 42746,
+                    "startOffset": 42751,
                     "endColumn": 81,
-                    "endOffset": 42823
+                    "endOffset": 42828
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4894,10 +4894,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 42828,
+                    "startOffset": 42833,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 42921
+                    "endOffset": 42926
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4915,10 +4915,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 42926,
+                    "startOffset": 42931,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 43538
+                    "endOffset": 43543
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4936,9 +4936,9 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 43543,
+                    "startOffset": 43548,
                     "endColumn": 99,
-                    "endOffset": 43638
+                    "endOffset": 43643
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4955,10 +4955,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 43643,
+                    "startOffset": 43648,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 43874
+                    "endOffset": 43879
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4976,10 +4976,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 43879,
+                    "startOffset": 43884,
                     "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 44298
+                    "endOffset": 44303
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -4997,10 +4997,10 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 44303,
+                    "startOffset": 44308,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 44537
+                    "endOffset": 44542
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5018,9 +5018,9 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 44542,
+                    "startOffset": 44547,
                     "endColumn": 93,
-                    "endOffset": 44631
+                    "endOffset": 44636
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5037,9 +5037,9 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 44636,
+                    "startOffset": 44641,
                     "endColumn": 88,
-                    "endOffset": 44720
+                    "endOffset": 44725
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5056,10 +5056,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 44725,
+                    "startOffset": 44730,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 44957
+                    "endOffset": 44962
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5077,10 +5077,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 44962,
+                    "startOffset": 44967,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 46908
+                    "endOffset": 46913
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5098,10 +5098,10 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 46913,
+                    "startOffset": 46918,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 47150
+                    "endOffset": 47155
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5119,10 +5119,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 47155,
+                    "startOffset": 47160,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 49232
+                    "endOffset": 49237
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5140,10 +5140,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 49237,
+                    "startOffset": 49242,
                     "endLine": 676,
                     "endColumn": 12,
-                    "endOffset": 59098
+                    "endOffset": 59103
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5161,10 +5161,10 @@
                 "to": {
                     "startLine": 677,
                     "startColumn": 4,
-                    "startOffset": 59103,
+                    "startOffset": 59108,
                     "endLine": 698,
                     "endColumn": 12,
-                    "endOffset": 60365
+                    "endOffset": 60370
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5182,10 +5182,10 @@
                 "to": {
                     "startLine": 699,
                     "startColumn": 4,
-                    "startOffset": 60370,
+                    "startOffset": 60375,
                     "endLine": 853,
                     "endColumn": 12,
-                    "endOffset": 70341
+                    "endOffset": 70346
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5203,10 +5203,10 @@
                 "to": {
                     "startLine": 854,
                     "startColumn": 4,
-                    "startOffset": 70346,
+                    "startOffset": 70351,
                     "endLine": 875,
                     "endColumn": 12,
-                    "endOffset": 71622
+                    "endOffset": 71627
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5224,10 +5224,10 @@
                 "to": {
                     "startLine": 876,
                     "startColumn": 4,
-                    "startOffset": 71627,
+                    "startOffset": 71632,
                     "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 72158
+                    "endOffset": 72163
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5245,10 +5245,10 @@
                 "to": {
                     "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 72163,
+                    "startOffset": 72168,
                     "endLine": 887,
                     "endColumn": 12,
-                    "endOffset": 72488
+                    "endOffset": 72493
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5266,10 +5266,10 @@
                 "to": {
                     "startLine": 888,
                     "startColumn": 4,
-                    "startOffset": 72493,
+                    "startOffset": 72498,
                     "endLine": 908,
                     "endColumn": 12,
-                    "endOffset": 73611
+                    "endOffset": 73616
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5287,10 +5287,10 @@
                 "to": {
                     "startLine": 909,
                     "startColumn": 4,
-                    "startOffset": 73616,
+                    "startOffset": 73621,
                     "endLine": 913,
                     "endColumn": 12,
-                    "endOffset": 73867
+                    "endOffset": 73872
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5308,10 +5308,10 @@
                 "to": {
                     "startLine": 914,
                     "startColumn": 4,
-                    "startOffset": 73872,
+                    "startOffset": 73877,
                     "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 74103
+                    "endOffset": 74108
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5329,10 +5329,10 @@
                 "to": {
                     "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 74108,
+                    "startOffset": 74113,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 74650
+                    "endOffset": 74655
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5350,10 +5350,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 74655,
+                    "startOffset": 74660,
                     "endLine": 937,
                     "endColumn": 12,
-                    "endOffset": 75144
+                    "endOffset": 75149
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5371,10 +5371,10 @@
                 "to": {
                     "startLine": 938,
                     "startColumn": 4,
-                    "startOffset": 75149,
+                    "startOffset": 75154,
                     "endLine": 946,
                     "endColumn": 12,
-                    "endOffset": 75749
+                    "endOffset": 75754
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5392,10 +5392,10 @@
                 "to": {
                     "startLine": 947,
                     "startColumn": 4,
-                    "startOffset": 75754,
+                    "startOffset": 75759,
                     "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 75897
+                    "endOffset": 75902
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5413,10 +5413,10 @@
                 "to": {
                     "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 75902,
+                    "startOffset": 75907,
                     "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 76485
+                    "endOffset": 76490
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5434,10 +5434,10 @@
                 "to": {
                     "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 76490,
+                    "startOffset": 76495,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 77049
+                    "endOffset": 77054
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5455,10 +5455,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 77054,
+                    "startOffset": 77059,
                     "endLine": 971,
                     "endColumn": 12,
-                    "endOffset": 77424
+                    "endOffset": 77429
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5476,9 +5476,9 @@
                 "to": {
                     "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 77429,
+                    "startOffset": 77434,
                     "endColumn": 117,
-                    "endOffset": 77542
+                    "endOffset": 77547
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5495,10 +5495,10 @@
                 "to": {
                     "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 77547,
+                    "startOffset": 77552,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 78080
+                    "endOffset": 78085
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5516,10 +5516,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 78085,
+                    "startOffset": 78090,
                     "endLine": 984,
                     "endColumn": 12,
-                    "endOffset": 78237
+                    "endOffset": 78242
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5537,10 +5537,10 @@
                 "to": {
                     "startLine": 985,
                     "startColumn": 4,
-                    "startOffset": 78242,
+                    "startOffset": 78247,
                     "endLine": 987,
                     "endColumn": 12,
-                    "endOffset": 78381
+                    "endOffset": 78386
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5558,10 +5558,10 @@
                 "to": {
                     "startLine": 988,
                     "startColumn": 4,
-                    "startOffset": 78386,
+                    "startOffset": 78391,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 78701
+                    "endOffset": 78706
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5579,10 +5579,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 78706,
+                    "startOffset": 78711,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 78957
+                    "endOffset": 78962
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5600,10 +5600,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 78962,
+                    "startOffset": 78967,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 79127
+                    "endOffset": 79132
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5621,10 +5621,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 79132,
+                    "startOffset": 79137,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 79268
+                    "endOffset": 79273
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5642,9 +5642,9 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 79273,
+                    "startOffset": 79278,
                     "endColumn": 63,
-                    "endOffset": 79332
+                    "endOffset": 79337
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5661,10 +5661,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 79337,
+                    "startOffset": 79342,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 79614
+                    "endOffset": 79619
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5682,10 +5682,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 79619,
+                    "startOffset": 79624,
                     "endLine": 1012,
                     "endColumn": 12,
-                    "endOffset": 79900
+                    "endOffset": 79905
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5703,10 +5703,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 79905,
+                    "startOffset": 79910,
                     "endLine": 1022,
                     "endColumn": 12,
-                    "endOffset": 80576
+                    "endOffset": 80581
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5724,10 +5724,10 @@
                 "to": {
                     "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 80581,
+                    "startOffset": 80586,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 80840
+                    "endOffset": 80845
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5745,10 +5745,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 80845,
+                    "startOffset": 80850,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 81178
+                    "endOffset": 81183
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5766,10 +5766,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 81183,
+                    "startOffset": 81188,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 81531
+                    "endOffset": 81536
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5787,9 +5787,9 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 81536,
+                    "startOffset": 81541,
                     "endColumn": 93,
-                    "endOffset": 81625
+                    "endOffset": 81630
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5806,10 +5806,10 @@
                 "to": {
                     "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 81630,
+                    "startOffset": 81635,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 81811
+                    "endOffset": 81816
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5827,10 +5827,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 81816,
+                    "startOffset": 81821,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 82117
+                    "endOffset": 82122
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5848,10 +5848,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 82122,
+                    "startOffset": 82127,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 82379
+                    "endOffset": 82384
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5869,10 +5869,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 82384,
+                    "startOffset": 82389,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 82504
+                    "endOffset": 82509
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5890,10 +5890,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 82509,
+                    "startOffset": 82514,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 82631
+                    "endOffset": 82636
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5911,10 +5911,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 82636,
+                    "startOffset": 82641,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 82870
+                    "endOffset": 82875
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5932,10 +5932,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 82875,
+                    "startOffset": 82880,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 83081
+                    "endOffset": 83086
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5953,10 +5953,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 83086,
+                    "startOffset": 83091,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 83200
+                    "endOffset": 83205
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5974,10 +5974,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 83205,
+                    "startOffset": 83210,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 83393
+                    "endOffset": 83398
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -5995,10 +5995,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 83398,
+                    "startOffset": 83403,
                     "endLine": 1076,
                     "endColumn": 12,
-                    "endOffset": 83848
+                    "endOffset": 83853
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6016,10 +6016,10 @@
                 "to": {
                     "startLine": 1077,
                     "startColumn": 4,
-                    "startOffset": 83853,
+                    "startOffset": 83858,
                     "endLine": 1079,
                     "endColumn": 12,
-                    "endOffset": 84029
+                    "endOffset": 84034
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6037,10 +6037,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 84034,
+                    "startOffset": 84039,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 84151
+                    "endOffset": 84156
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6058,10 +6058,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 84156,
+                    "startOffset": 84161,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 84410
+                    "endOffset": 84415
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6079,10 +6079,10 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 84415,
+                    "startOffset": 84420,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 84523
+                    "endOffset": 84528
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6100,10 +6100,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 84528,
+                    "startOffset": 84533,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 84710
+                    "endOffset": 84715
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6121,10 +6121,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 84715,
+                    "startOffset": 84720,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 84812
+                    "endOffset": 84817
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6142,10 +6142,10 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 84817,
+                    "startOffset": 84822,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 85256
+                    "endOffset": 85261
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6163,10 +6163,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 85261,
+                    "startOffset": 85266,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 85380
+                    "endOffset": 85385
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6184,10 +6184,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 85385,
+                    "startOffset": 85390,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 85665
+                    "endOffset": 85670
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6205,10 +6205,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 85670,
+                    "startOffset": 85675,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 86173
+                    "endOffset": 86178
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6226,10 +6226,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 86178,
+                    "startOffset": 86183,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 86669
+                    "endOffset": 86674
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6247,10 +6247,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 86674,
+                    "startOffset": 86679,
                     "endLine": 1134,
                     "endColumn": 12,
-                    "endOffset": 87556
+                    "endOffset": 87561
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6268,10 +6268,10 @@
                 "to": {
                     "startLine": 1135,
                     "startColumn": 4,
-                    "startOffset": 87561,
+                    "startOffset": 87566,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 87850
+                    "endOffset": 87855
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6289,10 +6289,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 87855,
+                    "startOffset": 87860,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 88420
+                    "endOffset": 88425
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6310,10 +6310,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 88425,
+                    "startOffset": 88430,
                     "endLine": 1160,
                     "endColumn": 12,
-                    "endOffset": 89152
+                    "endOffset": 89157
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6331,10 +6331,10 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 89157,
+                    "startOffset": 89162,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 89324
+                    "endOffset": 89329
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6352,10 +6352,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 89329,
+                    "startOffset": 89334,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 89660
+                    "endOffset": 89665
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6373,10 +6373,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 89665,
+                    "startOffset": 89670,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 90568
+                    "endOffset": 90573
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6394,10 +6394,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 90573,
+                    "startOffset": 90578,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 90846
+                    "endOffset": 90851
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6415,10 +6415,10 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 90851,
+                    "startOffset": 90856,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 93708
+                    "endOffset": 93713
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6436,10 +6436,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 93713,
+                    "startOffset": 93718,
                     "endLine": 1262,
                     "endColumn": 12,
-                    "endOffset": 96710
+                    "endOffset": 96715
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6457,9 +6457,9 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 96715,
+                    "startOffset": 96720,
                     "endColumn": 61,
-                    "endOffset": 96772
+                    "endOffset": 96777
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6476,10 +6476,10 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 96777,
+                    "startOffset": 96782,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 97402
+                    "endOffset": 97407
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6497,10 +6497,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 97407,
+                    "startOffset": 97412,
                     "endLine": 1282,
                     "endColumn": 12,
-                    "endOffset": 98016
+                    "endOffset": 98021
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6518,9 +6518,9 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 98021,
+                    "startOffset": 98026,
                     "endColumn": 85,
-                    "endOffset": 98102
+                    "endOffset": 98107
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6537,10 +6537,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 98107,
+                    "startOffset": 98112,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 98215
+                    "endOffset": 98220
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6558,10 +6558,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 98220,
+                    "startOffset": 98225,
                     "endLine": 1289,
                     "endColumn": 12,
-                    "endOffset": 98444
+                    "endOffset": 98449
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6579,10 +6579,10 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 98449,
+                    "startOffset": 98454,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 98604
+                    "endOffset": 98609
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6600,10 +6600,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 98609,
+                    "startOffset": 98614,
                     "endLine": 1295,
                     "endColumn": 12,
-                    "endOffset": 98756
+                    "endOffset": 98761
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6621,10 +6621,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 98761,
+                    "startOffset": 98766,
                     "endLine": 1298,
                     "endColumn": 12,
-                    "endOffset": 98927
+                    "endOffset": 98932
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6642,10 +6642,10 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 98932,
+                    "startOffset": 98937,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 99094
+                    "endOffset": 99099
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6663,10 +6663,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 99099,
+                    "startOffset": 99104,
                     "endLine": 1305,
                     "endColumn": 12,
-                    "endOffset": 99337
+                    "endOffset": 99342
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6684,10 +6684,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 99342,
+                    "startOffset": 99347,
                     "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 99507
+                    "endOffset": 99512
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6705,10 +6705,10 @@
                 "to": {
                     "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 99512,
+                    "startOffset": 99517,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 99680
+                    "endOffset": 99685
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6726,10 +6726,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99685,
+                    "startOffset": 99690,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 99851
+                    "endOffset": 99856
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6747,10 +6747,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99856,
+                    "startOffset": 99861,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 100125
+                    "endOffset": 100130
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6768,10 +6768,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 100130,
+                    "startOffset": 100135,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 100324
+                    "endOffset": 100329
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6789,10 +6789,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 100329,
+                    "startOffset": 100334,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 100529
+                    "endOffset": 100534
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6810,10 +6810,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100534,
+                    "startOffset": 100539,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 100859
+                    "endOffset": 100864
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6831,9 +6831,9 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 100864,
+                    "startOffset": 100869,
                     "endColumn": 83,
-                    "endOffset": 100943
+                    "endOffset": 100948
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6850,9 +6850,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100948,
+                    "startOffset": 100953,
                     "endColumn": 95,
-                    "endOffset": 101039
+                    "endOffset": 101044
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6869,9 +6869,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101044,
+                    "startOffset": 101049,
                     "endColumn": 95,
-                    "endOffset": 101135
+                    "endOffset": 101140
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6888,9 +6888,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101140,
+                    "startOffset": 101145,
                     "endColumn": 97,
-                    "endOffset": 101233
+                    "endOffset": 101238
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6907,9 +6907,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101238,
+                    "startOffset": 101243,
                     "endColumn": 99,
-                    "endOffset": 101333
+                    "endOffset": 101338
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6926,9 +6926,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101338,
+                    "startOffset": 101343,
                     "endColumn": 101,
-                    "endOffset": 101435
+                    "endOffset": 101440
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6945,9 +6945,9 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101440,
+                    "startOffset": 101445,
                     "endColumn": 101,
-                    "endOffset": 101537
+                    "endOffset": 101542
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6964,9 +6964,9 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 101542,
+                    "startOffset": 101547,
                     "endColumn": 101,
-                    "endOffset": 101639
+                    "endOffset": 101644
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -6983,9 +6983,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101644,
+                    "startOffset": 101649,
                     "endColumn": 101,
-                    "endOffset": 101741
+                    "endOffset": 101746
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7002,9 +7002,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 101746,
+                    "startOffset": 101751,
                     "endColumn": 101,
-                    "endOffset": 101843
+                    "endOffset": 101848
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7021,9 +7021,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101848,
+                    "startOffset": 101853,
                     "endColumn": 99,
-                    "endOffset": 101943
+                    "endOffset": 101948
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7040,9 +7040,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 101948,
+                    "startOffset": 101953,
                     "endColumn": 95,
-                    "endOffset": 102039
+                    "endOffset": 102044
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7059,9 +7059,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 102044,
+                    "startOffset": 102049,
                     "endColumn": 111,
-                    "endOffset": 102151
+                    "endOffset": 102156
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7078,9 +7078,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 102156,
+                    "startOffset": 102161,
                     "endColumn": 128,
-                    "endOffset": 102280
+                    "endOffset": 102285
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7097,9 +7097,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 102285,
+                    "startOffset": 102290,
                     "endColumn": 122,
-                    "endOffset": 102403
+                    "endOffset": 102408
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7116,10 +7116,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102408,
+                    "startOffset": 102413,
                     "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 102557
+                    "endOffset": 102562
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7137,10 +7137,10 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102562,
+                    "startOffset": 102567,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 102711
+                    "endOffset": 102716
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7158,9 +7158,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 102716,
+                    "startOffset": 102721,
                     "endColumn": 97,
-                    "endOffset": 102809
+                    "endOffset": 102814
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7177,9 +7177,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102814,
+                    "startOffset": 102819,
                     "endColumn": 113,
-                    "endOffset": 102923
+                    "endOffset": 102928
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7196,9 +7196,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 102928,
+                    "startOffset": 102933,
                     "endColumn": 93,
-                    "endOffset": 103017
+                    "endOffset": 103022
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7215,10 +7215,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 103022,
+                    "startOffset": 103027,
                     "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 103157
+                    "endOffset": 103162
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7236,10 +7236,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 103162,
+                    "startOffset": 103167,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 103291
+                    "endOffset": 103296
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7257,9 +7257,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103296,
+                    "startOffset": 103301,
                     "endColumn": 95,
-                    "endOffset": 103387
+                    "endOffset": 103392
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7276,9 +7276,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 103392,
+                    "startOffset": 103397,
                     "endColumn": 111,
-                    "endOffset": 103499
+                    "endOffset": 103504
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7295,9 +7295,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103504,
+                    "startOffset": 103509,
                     "endColumn": 99,
-                    "endOffset": 103599
+                    "endOffset": 103604
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7314,9 +7314,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 103604,
+                    "startOffset": 103609,
                     "endColumn": 115,
-                    "endOffset": 103715
+                    "endOffset": 103720
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7333,9 +7333,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103720,
+                    "startOffset": 103725,
                     "endColumn": 95,
-                    "endOffset": 103811
+                    "endOffset": 103816
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7352,9 +7352,9 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 103816,
+                    "startOffset": 103821,
                     "endColumn": 111,
-                    "endOffset": 103923
+                    "endOffset": 103928
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7371,10 +7371,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103928,
+                    "startOffset": 103933,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 104063
+                    "endOffset": 104068
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7392,9 +7392,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 104068,
+                    "startOffset": 104073,
                     "endColumn": 135,
-                    "endOffset": 104199
+                    "endOffset": 104204
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7411,10 +7411,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 104204,
+                    "startOffset": 104209,
                     "endLine": 1366,
                     "endColumn": 12,
-                    "endOffset": 104363
+                    "endOffset": 104368
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7432,9 +7432,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 104368,
+                    "startOffset": 104373,
                     "endColumn": 129,
-                    "endOffset": 104493
+                    "endOffset": 104498
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7451,10 +7451,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 104498,
+                    "startOffset": 104503,
                     "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 104651
+                    "endOffset": 104656
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7472,10 +7472,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 104656,
+                    "startOffset": 104661,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 104801
+                    "endOffset": 104806
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7493,9 +7493,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 104806,
+                    "startOffset": 104811,
                     "endColumn": 140,
-                    "endOffset": 104942
+                    "endOffset": 104947
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7512,10 +7512,10 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104947,
+                    "startOffset": 104952,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 105086
+                    "endOffset": 105091
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7533,9 +7533,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 105091,
+                    "startOffset": 105096,
                     "endColumn": 134,
-                    "endOffset": 105221
+                    "endOffset": 105226
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7552,9 +7552,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 105226,
+                    "startOffset": 105231,
                     "endColumn": 111,
-                    "endOffset": 105333
+                    "endOffset": 105338
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7571,9 +7571,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 105338,
+                    "startOffset": 105343,
                     "endColumn": 127,
-                    "endOffset": 105461
+                    "endOffset": 105466
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7590,10 +7590,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 105466,
+                    "startOffset": 105471,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 105597
+                    "endOffset": 105602
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7611,10 +7611,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 105602,
+                    "startOffset": 105607,
                     "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 105739
+                    "endOffset": 105744
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7632,10 +7632,10 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105744,
+                    "startOffset": 105749,
                     "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 105881
+                    "endOffset": 105886
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7653,9 +7653,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 105886,
+                    "startOffset": 105891,
                     "endColumn": 111,
-                    "endOffset": 105993
+                    "endOffset": 105998
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7672,9 +7672,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 105998,
+                    "startOffset": 106003,
                     "endColumn": 139,
-                    "endOffset": 106133
+                    "endOffset": 106138
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7691,9 +7691,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106138,
+                    "startOffset": 106143,
                     "endColumn": 67,
-                    "endOffset": 106201
+                    "endOffset": 106206
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7710,9 +7710,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 106206,
+                    "startOffset": 106211,
                     "endColumn": 72,
-                    "endOffset": 106274
+                    "endOffset": 106279
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7729,9 +7729,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 106279,
+                    "startOffset": 106284,
                     "endColumn": 73,
-                    "endOffset": 106348
+                    "endOffset": 106353
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7748,9 +7748,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106353,
+                    "startOffset": 106358,
                     "endColumn": 72,
-                    "endOffset": 106421
+                    "endOffset": 106426
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7767,9 +7767,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 106426,
+                    "startOffset": 106431,
                     "endColumn": 73,
-                    "endOffset": 106495
+                    "endOffset": 106500
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7786,10 +7786,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 106500,
+                    "startOffset": 106505,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 106641
+                    "endOffset": 106646
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7807,10 +7807,10 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 106646,
+                    "startOffset": 106651,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 106785
+                    "endOffset": 106790
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7828,10 +7828,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 106790,
+                    "startOffset": 106795,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 106923
+                    "endOffset": 106928
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7849,9 +7849,9 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106928,
+                    "startOffset": 106933,
                     "endColumn": 65,
-                    "endOffset": 106989
+                    "endOffset": 106994
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7868,9 +7868,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 106994,
+                    "startOffset": 106999,
                     "endColumn": 89,
-                    "endOffset": 107079
+                    "endOffset": 107084
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7887,9 +7887,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 107084,
+                    "startOffset": 107089,
                     "endColumn": 75,
-                    "endOffset": 107155
+                    "endOffset": 107160
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7906,9 +7906,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 107160,
+                    "startOffset": 107165,
                     "endColumn": 103,
-                    "endOffset": 107259
+                    "endOffset": 107264
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7925,9 +7925,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 107264,
+                    "startOffset": 107269,
                     "endColumn": 89,
-                    "endOffset": 107349
+                    "endOffset": 107354
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7944,9 +7944,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107354,
+                    "startOffset": 107359,
                     "endColumn": 101,
-                    "endOffset": 107451
+                    "endOffset": 107456
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7963,9 +7963,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 107456,
+                    "startOffset": 107461,
                     "endColumn": 107,
-                    "endOffset": 107559
+                    "endOffset": 107564
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -7982,9 +7982,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 107564,
+                    "startOffset": 107569,
                     "endColumn": 107,
-                    "endOffset": 107667
+                    "endOffset": 107672
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8001,9 +8001,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107672,
+                    "startOffset": 107677,
                     "endColumn": 99,
-                    "endOffset": 107767
+                    "endOffset": 107772
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8020,9 +8020,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 107772,
+                    "startOffset": 107777,
                     "endColumn": 79,
-                    "endOffset": 107847
+                    "endOffset": 107852
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8039,9 +8039,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 107852,
+                    "startOffset": 107857,
                     "endColumn": 91,
-                    "endOffset": 107939
+                    "endOffset": 107944
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8058,9 +8058,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107944,
+                    "startOffset": 107949,
                     "endColumn": 97,
-                    "endOffset": 108037
+                    "endOffset": 108042
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8077,10 +8077,10 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 108042,
+                    "startOffset": 108047,
                     "endLine": 1410,
                     "endColumn": 12,
-                    "endOffset": 108147
+                    "endOffset": 108152
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8098,9 +8098,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108152,
+                    "startOffset": 108157,
                     "endColumn": 77,
-                    "endOffset": 108225
+                    "endOffset": 108230
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8117,9 +8117,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 108230,
+                    "startOffset": 108235,
                     "endColumn": 105,
-                    "endOffset": 108331
+                    "endOffset": 108336
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8136,9 +8136,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 108336,
+                    "startOffset": 108341,
                     "endColumn": 91,
-                    "endOffset": 108423
+                    "endOffset": 108428
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8155,9 +8155,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 108428,
+                    "startOffset": 108433,
                     "endColumn": 103,
-                    "endOffset": 108527
+                    "endOffset": 108532
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8174,9 +8174,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108532,
+                    "startOffset": 108537,
                     "endColumn": 109,
-                    "endOffset": 108637
+                    "endOffset": 108642
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8193,10 +8193,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 108642,
+                    "startOffset": 108647,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 108759
+                    "endOffset": 108764
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8214,10 +8214,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108764,
+                    "startOffset": 108769,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 108922
+                    "endOffset": 108927
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8235,10 +8235,10 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108927,
+                    "startOffset": 108932,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 109079
+                    "endOffset": 109084
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8256,9 +8256,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109084,
+                    "startOffset": 109089,
                     "endColumn": 79,
-                    "endOffset": 109159
+                    "endOffset": 109164
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8275,9 +8275,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109164,
+                    "startOffset": 109169,
                     "endColumn": 99,
-                    "endOffset": 109259
+                    "endOffset": 109264
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8294,9 +8294,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109264,
+                    "startOffset": 109269,
                     "endColumn": 89,
-                    "endOffset": 109349
+                    "endOffset": 109354
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8313,9 +8313,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 109354,
+                    "startOffset": 109359,
                     "endColumn": 109,
-                    "endOffset": 109459
+                    "endOffset": 109464
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8332,9 +8332,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109464,
+                    "startOffset": 109469,
                     "endColumn": 91,
-                    "endOffset": 109551
+                    "endOffset": 109556
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8351,10 +8351,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109556,
+                    "startOffset": 109561,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 109651
+                    "endOffset": 109656
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8372,10 +8372,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109656,
+                    "startOffset": 109661,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 109763
+                    "endOffset": 109768
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8393,10 +8393,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109768,
+                    "startOffset": 109773,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 109877
+                    "endOffset": 109882
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8414,10 +8414,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109882,
+                    "startOffset": 109887,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 109993
+                    "endOffset": 109998
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8435,10 +8435,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109998,
+                    "startOffset": 110003,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 110109
+                    "endOffset": 110114
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8456,9 +8456,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 110114,
+                    "startOffset": 110119,
                     "endColumn": 93,
-                    "endOffset": 110203
+                    "endOffset": 110208
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8475,9 +8475,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 110208,
+                    "startOffset": 110213,
                     "endColumn": 113,
-                    "endOffset": 110317
+                    "endOffset": 110322
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8494,9 +8494,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110322,
+                    "startOffset": 110327,
                     "endColumn": 111,
-                    "endOffset": 110429
+                    "endOffset": 110434
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8513,10 +8513,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 110434,
+                    "startOffset": 110439,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 110531
+                    "endOffset": 110536
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8534,10 +8534,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110536,
+                    "startOffset": 110541,
                     "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 110651
+                    "endOffset": 110656
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8555,10 +8555,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110656,
+                    "startOffset": 110661,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 110773
+                    "endOffset": 110778
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8576,9 +8576,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 110778,
+                    "startOffset": 110783,
                     "endColumn": 81,
-                    "endOffset": 110855
+                    "endOffset": 110860
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8595,9 +8595,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110860,
+                    "startOffset": 110865,
                     "endColumn": 103,
-                    "endOffset": 110959
+                    "endOffset": 110964
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8614,9 +8614,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 110964,
+                    "startOffset": 110969,
                     "endColumn": 119,
-                    "endOffset": 111079
+                    "endOffset": 111084
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8633,9 +8633,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 111084,
+                    "startOffset": 111089,
                     "endColumn": 125,
-                    "endOffset": 111205
+                    "endOffset": 111210
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8652,9 +8652,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 111210,
+                    "startOffset": 111215,
                     "endColumn": 97,
-                    "endOffset": 111303
+                    "endOffset": 111308
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8671,9 +8671,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111308,
+                    "startOffset": 111313,
                     "endColumn": 93,
-                    "endOffset": 111397
+                    "endOffset": 111402
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8690,9 +8690,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111402,
+                    "startOffset": 111407,
                     "endColumn": 87,
-                    "endOffset": 111485
+                    "endOffset": 111490
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8709,9 +8709,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111490,
+                    "startOffset": 111495,
                     "endColumn": 111,
-                    "endOffset": 111597
+                    "endOffset": 111602
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8728,9 +8728,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111602,
+                    "startOffset": 111607,
                     "endColumn": 115,
-                    "endOffset": 111713
+                    "endOffset": 111718
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8747,9 +8747,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 111718,
+                    "startOffset": 111723,
                     "endColumn": 121,
-                    "endOffset": 111835
+                    "endOffset": 111840
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8766,9 +8766,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111840,
+                    "startOffset": 111845,
                     "endColumn": 111,
-                    "endOffset": 111947
+                    "endOffset": 111952
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8785,10 +8785,10 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111952,
+                    "startOffset": 111957,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 112122
+                    "endOffset": 112127
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8806,9 +8806,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 112127,
+                    "startOffset": 112132,
                     "endColumn": 115,
-                    "endOffset": 112238
+                    "endOffset": 112243
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8825,9 +8825,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 112243,
+                    "startOffset": 112248,
                     "endColumn": 85,
-                    "endOffset": 112324
+                    "endOffset": 112329
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8844,9 +8844,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 112329,
+                    "startOffset": 112334,
                     "endColumn": 91,
-                    "endOffset": 112416
+                    "endOffset": 112421
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8863,10 +8863,10 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 112421,
+                    "startOffset": 112426,
                     "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 112528
+                    "endOffset": 112533
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8884,10 +8884,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 112533,
+                    "startOffset": 112538,
                     "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 112652
+                    "endOffset": 112657
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8905,9 +8905,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 112657,
+                    "startOffset": 112662,
                     "endColumn": 66,
-                    "endOffset": 112719
+                    "endOffset": 112724
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8924,10 +8924,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 112724,
+                    "startOffset": 112729,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 112845
+                    "endOffset": 112850
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8945,9 +8945,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 112850,
+                    "startOffset": 112855,
                     "endColumn": 67,
-                    "endOffset": 112913
+                    "endOffset": 112918
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8964,10 +8964,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 112918,
+                    "startOffset": 112923,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 113041
+                    "endOffset": 113046
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -8985,10 +8985,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 113046,
+                    "startOffset": 113051,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 113185
+                    "endOffset": 113190
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9006,10 +9006,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 113190,
+                    "startOffset": 113195,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 113313
+                    "endOffset": 113318
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9027,9 +9027,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 113318,
+                    "startOffset": 113323,
                     "endColumn": 68,
-                    "endOffset": 113382
+                    "endOffset": 113387
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9046,9 +9046,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 113387,
+                    "startOffset": 113392,
                     "endColumn": 94,
-                    "endOffset": 113477
+                    "endOffset": 113482
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9065,9 +9065,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 113482,
+                    "startOffset": 113487,
                     "endColumn": 114,
-                    "endOffset": 113592
+                    "endOffset": 113597
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9084,9 +9084,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 113597,
+                    "startOffset": 113602,
                     "endColumn": 112,
-                    "endOffset": 113705
+                    "endOffset": 113710
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9103,9 +9103,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 113710,
+                    "startOffset": 113715,
                     "endColumn": 98,
-                    "endOffset": 113804
+                    "endOffset": 113809
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9122,9 +9122,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113809,
+                    "startOffset": 113814,
                     "endColumn": 108,
-                    "endOffset": 113913
+                    "endOffset": 113918
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9141,9 +9141,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 113918,
+                    "startOffset": 113923,
                     "endColumn": 110,
-                    "endOffset": 114024
+                    "endOffset": 114029
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9160,9 +9160,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 114029,
+                    "startOffset": 114034,
                     "endColumn": 110,
-                    "endOffset": 114135
+                    "endOffset": 114140
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9179,9 +9179,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 114140,
+                    "startOffset": 114145,
                     "endColumn": 100,
-                    "endOffset": 114236
+                    "endOffset": 114241
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9198,9 +9198,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 114241,
+                    "startOffset": 114246,
                     "endColumn": 104,
-                    "endOffset": 114341
+                    "endOffset": 114346
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9217,10 +9217,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 114346,
+                    "startOffset": 114351,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 114453
+                    "endOffset": 114458
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9238,10 +9238,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 114458,
+                    "startOffset": 114463,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 114583
+                    "endOffset": 114588
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9259,9 +9259,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 114588,
+                    "startOffset": 114593,
                     "endColumn": 90,
-                    "endOffset": 114674
+                    "endOffset": 114679
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9278,9 +9278,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 114679,
+                    "startOffset": 114684,
                     "endColumn": 122,
-                    "endOffset": 114797
+                    "endOffset": 114802
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9297,10 +9297,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 114802,
+                    "startOffset": 114807,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 114909
+                    "endOffset": 114914
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9318,9 +9318,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 114914,
+                    "startOffset": 114919,
                     "endColumn": 85,
-                    "endOffset": 114995
+                    "endOffset": 115000
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9337,9 +9337,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 115000,
+                    "startOffset": 115005,
                     "endColumn": 103,
-                    "endOffset": 115099
+                    "endOffset": 115104
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9356,10 +9356,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 115104,
+                    "startOffset": 115109,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 115207
+                    "endOffset": 115212
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9377,10 +9377,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 115212,
+                    "startOffset": 115217,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 115307
+                    "endOffset": 115312
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9398,10 +9398,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 115312,
+                    "startOffset": 115317,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 115425
+                    "endOffset": 115430
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9419,10 +9419,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 115430,
+                    "startOffset": 115435,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 115529
+                    "endOffset": 115534
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9440,10 +9440,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 115534,
+                    "startOffset": 115539,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 115633
+                    "endOffset": 115638
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9461,10 +9461,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 115638,
+                    "startOffset": 115643,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 115759
+                    "endOffset": 115764
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9482,9 +9482,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 115764,
+                    "startOffset": 115769,
                     "endColumn": 87,
-                    "endOffset": 115847
+                    "endOffset": 115852
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9501,9 +9501,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 115852,
+                    "startOffset": 115857,
                     "endColumn": 107,
-                    "endOffset": 115955
+                    "endOffset": 115960
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9520,9 +9520,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 115960,
+                    "startOffset": 115965,
                     "endColumn": 99,
-                    "endOffset": 116055
+                    "endOffset": 116060
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9539,9 +9539,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 116060,
+                    "startOffset": 116065,
                     "endColumn": 89,
-                    "endOffset": 116145
+                    "endOffset": 116150
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9558,9 +9558,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 116150,
+                    "startOffset": 116155,
                     "endColumn": 109,
-                    "endOffset": 116255
+                    "endOffset": 116260
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9577,9 +9577,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 116260,
+                    "startOffset": 116265,
                     "endColumn": 83,
-                    "endOffset": 116339
+                    "endOffset": 116344
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9596,9 +9596,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 116344,
+                    "startOffset": 116349,
                     "endColumn": 83,
-                    "endOffset": 116423
+                    "endOffset": 116428
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9615,9 +9615,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 116428,
+                    "startOffset": 116433,
                     "endColumn": 53,
-                    "endOffset": 116477
+                    "endOffset": 116482
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9634,9 +9634,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 116482,
+                    "startOffset": 116487,
                     "endColumn": 63,
-                    "endOffset": 116541
+                    "endOffset": 116546
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9653,9 +9653,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 116546,
+                    "startOffset": 116551,
                     "endColumn": 105,
-                    "endOffset": 116647
+                    "endOffset": 116652
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9672,9 +9672,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 116652,
+                    "startOffset": 116657,
                     "endColumn": 109,
-                    "endOffset": 116757
+                    "endOffset": 116762
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9691,9 +9691,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 116762,
+                    "startOffset": 116767,
                     "endColumn": 83,
-                    "endOffset": 116841
+                    "endOffset": 116846
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
@@ -9710,9 +9710,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 116846,
+                    "startOffset": 116851,
                     "endColumn": 119,
-                    "endOffset": 116961
+                    "endOffset": 116966
                 },
                 "from": {
                     "file": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values\\values.xml",
