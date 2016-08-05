@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\web_logo.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\web_logo.png"
+    },
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\call.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\call.png"
+    },
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\kebab.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\kebab.png"
+    },
+    {
+        "merged": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\eat.png",
+        "source": "G:\\Study Stuff\\Udemy\\KababTreatBussinessCard\\app\\src\\main\\res\\mipmap-xxxhdpi\\eat.png"
+    }
+]
